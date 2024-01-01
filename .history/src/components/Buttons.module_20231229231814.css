@@ -1,0 +1,20 @@
+.buttons{
+    display: grid;
+    justify-content: center;
+grid-template-columns: repeat(4, 1fr);
+grid-template-rows: repeat(5, 1fr);
+    gap: 30px;
+    font-size: x-large;
+}
+.buttons div{
+    align-self: center;
+}
+.buttons div:nth-child(10){
+}
+.buttons div:nth-child(11){
+    gri
+}
+.buttons button {
+    grid-row: 4/6;
+    grid-column: 4;
+}

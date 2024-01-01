@@ -1,0 +1,6 @@
+.buttons{
+    display: grid;
+    grid-row: 4;
+    gap: 10px;
+}
+.button :nth-child(1){

@@ -1,0 +1,10 @@
+.result{
+    height: 100px;
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    
+    padding: 0;
+    font-size: 50px;
+    text-align: right;
+}

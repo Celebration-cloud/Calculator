@@ -1,0 +1,9 @@
+.buttons{
+    display: grid;
+    grid-row: 5;
+    gap: 10px;
+}
+.button :nth-child(1){
+    grid-column: 1;
+    grid-template-columns: 1;
+}

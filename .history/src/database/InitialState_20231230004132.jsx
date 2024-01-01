@@ -1,0 +1,4 @@
+const calculator ={
+    //Addition Function
+    
+}

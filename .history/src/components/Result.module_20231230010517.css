@@ -1,0 +1,7 @@
+.result{
+    height: 100px;
+    border: none;
+    border-radius: 10px;
+    font-size: 50px;
+    text-align: right;
+}
